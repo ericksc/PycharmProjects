@@ -1,0 +1,4 @@
+juan,perez,43231434,919191
+carlos,arias,424411,531111
+andres,quiros,34244,929119
+[['juan', 'perez', '43231434', '919191'], ['carlos', 'arias', '424411', '531111'], ['andres', 'quiros', '34244', '929119']]
